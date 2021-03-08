@@ -5,13 +5,13 @@ using UnityEngine;
 
 public class InstantiateManager : MonoBehaviour
 {
-    public GameObject robotPrefab;
+    public GameObject NewBlock;
     void Update()
     {
 
         if (Input.GetKeyDown(KeyCode.C))
         {
-            Instantiate(robotPrefab);
+            Instantiate(NewBlock);
         }
     }
 }
