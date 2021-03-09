@@ -3,5 +3,4 @@ Hello everyone, welcome to a planned addition of a Minecraft like game, written 
 
 This game is currently under development by a high school kid in their free time, expect major updates weekly and minor updates once in a few days
 
-UPDATE MARCH 8TH
-I added a first player controller, and for now, it seems like it's going to be a Minecraft themed Parkour game instead.
+Currently, the game is (mostly) playable for around 3 seconds, but theree is no way to quit or even pause the game, if you want feel free to download the source code!
