@@ -7,6 +7,6 @@ public class FallDown : MonoBehaviour
 {
     void OnTriggerEnter()
     {
-        SceneManager.LoadScene(0);
+        SceneManager.LoadScene(0); //0 loads the menu screen, 1 loads parkour
     }
 }

@@ -11,6 +11,8 @@ public class SC_MainMenu : MonoBehaviour
     void Start()
     {
         MainMenuButton();
+        Cursor.lockState = CursorLockMode.None;
+        Cursor.visible = true;
     }
 
     public void PlayNowButton()
