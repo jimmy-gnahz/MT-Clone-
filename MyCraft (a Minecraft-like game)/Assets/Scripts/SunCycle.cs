@@ -5,11 +5,11 @@ using UnityEngine;
 public class SunCycle : MonoBehaviour
 {
 
-    public int rotatespeed = 5;
+    public int rotatespeed = 1;
 
     // Update is called once per frame
     void Update()
     {
-        transform.Rotate(3, rotatespeed, 1, Space.World); //the 3 is originally 1
+        transform.Rotate(0, 0, 0.01f, Space.World);
     }
 }

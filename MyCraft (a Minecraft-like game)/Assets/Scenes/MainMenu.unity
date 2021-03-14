@@ -755,8 +755,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 143, y: 43}
-  m_SizeDelta: {x: 485.1635, y: 159.8576}
+  m_AnchoredPosition: {x: 79, y: 45.464}
+  m_SizeDelta: {x: 485.1635, y: 190.93}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1018128189
 MonoBehaviour:
@@ -791,9 +791,16 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 'Game design: Howard
+  m_Text: 'Thank you for playing this open sourced Minecraft themed platformer!
 
-'
+    Game
+    design: Howard
+
+    SOURCE CODE: https://github.com/jimmy-gnahz/MT-Clone-
+
+    WASD
+    keys to move, left Shift to sprint, Esc key to pause, and the like button to
+    like!'
 --- !u!222 &1018128190
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1629,7 +1636,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Game credits
+  m_Text: How to play?
 --- !u!222 &2057614730
 CanvasRenderer:
   m_ObjectHideFlags: 0
